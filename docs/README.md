@@ -10,23 +10,23 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/datawhalechina/all-in-rag?style=for-the-badge&logo=github&color=ff6b6b" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/datawhalechina/all-in-rag?style=for-the-badge&logo=github&color=4ecdc4" alt="GitHub forks"/>
-  <img src="https://img.shields.io/badge/Python-3.12.7-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="./images/badge_stars.svg" alt="GitHub stars"/>
+  <img src="./images/badge_forks.svg" alt="GitHub forks"/>
+  <img src="./images/badge_python.svg" alt="Python"/>
   <a href="https://zread.ai/datawhalechina/all-in-rag">
-    <img src="https://img.shields.io/badge/Ask_Zread-_.svg?style=for-the-badge&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff" alt="zread"/>
+    <img src="./images/badge_zread.svg" alt="zread"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://datawhalechina.github.io/all-in-rag/">
-    <img src="https://img.shields.io/badge/📖_在线阅读-立即开始-success?style=for-the-badge&logoColor=white" alt="在线阅读"/>
+    <img src="./images/badge_read.svg" alt="在线阅读"/>
   </a>
   <a href="README_en.md">
-    <img src="https://img.shields.io/badge/🌍_English-Version-blue?style=for-the-badge&logoColor=white" alt="English Version"/>
+    <img src="./images/badge_en.svg" alt="English Version"/>
   </a>
   <a href="https://github.com/datawhalechina">
-    <img src="https://img.shields.io/badge/💬_讨论交流-加入我们-purple?style=for-the-badge&logoColor=white" alt="讨论交流"/>
+    <img src="./images/badge_discuss.svg" alt="讨论交流"/>
   </a>
 </div>
 
@@ -159,8 +159,8 @@
 
 ### Extra-chapter
 
-- [Neo4J 简单应用](./Extra-chapter/Neo4J-Simple-Application/readme.md) （贡献者: [dalvqw](https://github.com/FutureUnreal)）
-- [多模态 Omni Embedding 实践（Jina v5-omni）](./Extra-chapter/multimodal-embedding-omni-practice/readme.md)（贡献者: [Alden](https://github.com/AldenWangExis)）
+- [Neo4J 简单应用](https://github.com/datawhalechina/all-in-rag/tree/main/Extra-chapter/Neo4J-Simple-Application) （贡献者: [dalvqw](https://github.com/FutureUnreal)）
+- [多模态 Omni Embedding 实践（Jina v5-omni）](https://github.com/datawhalechina/all-in-rag/tree/main/Extra-chapter/multimodal-embedding-omni-practice)（贡献者: [Alden](https://github.com/AldenWangExis)）
 
 ## 目录结构说明
 
@@ -199,7 +199,7 @@ all-in-rag/
 - 感谢开源社区提供的优秀工具和框架支持
 - 特别感谢以下为教程做出贡献的开发者！
 
-[![Contributors](https://contrib.rocks/image?repo=datawhalechina/all-in-rag)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
+[![Contributors](./images/contributors.png)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
 
 *Made with [contrib.rocks](https://contrib.rocks).*
 
@@ -213,7 +213,7 @@ all-in-rag/
 
 ## Star History
 
-[![all-in-rag stats](https://datawhalechina.github.io/members-visualization/badges/all-in-rag.png)](https://datawhalechina.github.io/members-visualization/repo-badge?repo=all-in-rag)
+[![all-in-rag stats](./images/all-in-rag_stats.png)](https://datawhalechina.github.io/members-visualization/repo-badge?repo=all-in-rag)
 
 <div align="center">
   <p>如果这个项目对你有帮助，请给我们一个 ⭐️</p>
@@ -225,7 +225,7 @@ all-in-rag/
 ## 关于 Datawhale
 
 <div align='center'>
-    <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" alt="Datawhale" width="30%">
+    <img src="./images/datawhale_qrcode.jpeg" alt="Datawhale" width="30%">
     <p>扫描二维码关注 Datawhale 公众号，获取更多优质开源内容</p>
 </div>
 
@@ -233,7 +233,7 @@ all-in-rag/
 
 ## 许可证
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="./images/badge_license.svg" /></a>
 
 本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
 

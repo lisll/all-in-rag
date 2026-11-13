@@ -94,7 +94,7 @@
 
 要计算上述所有指标，前提是拥有一个高质量的标注数据集，其中包含了查询和每个查询对应的“真实”相关文档。
 
-> **术语提示：** 本节的 `Precision@k` 和 `Recall@k` 是传统信息检索指标。Ragas中的 `ContextPrecision` 和 `ContextRecall` 虽然中文名称相近，但使用的是面向RAG上下文的评估方法，输入字段和计算过程并不相同，详见[第三节 Ragas实践](20_ragas_practice.md)。
+> **术语提示：** 本节的 `Precision@k` 和 `Recall@k` 是传统信息检索指标。Ragas中的 `ContextPrecision` 和 `ContextRecall` 虽然中文名称相近，但使用的是面向RAG上下文的评估方法，输入字段和计算过程并不相同（详见 Ragas 官方文档或 [第二节 评估工具](19_common_tools.md)）。
 
 ### 2.3 响应评估
 

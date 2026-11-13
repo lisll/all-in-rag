@@ -1,4 +1,5 @@
 - 目录
+    - [学习路线图](learning_roadmap.md)
     - 第一章 解锁RAG
         - [第一节 RAG简介](chapter1/01_RAG_intro.md)
         - [第二节 准备工作](chapter1/02_preparation.md)

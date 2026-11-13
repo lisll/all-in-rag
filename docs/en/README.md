@@ -4,7 +4,7 @@
   <img src="logo.svg" alt="All-in-RAG Logo" width="70%">
 </div>
 
-## Project Introduction [![Stars](https://img.shields.io/github/stars/datawhalechina/all-in-rag?style=social)](https://github.com/datawhalechina/all-in-rag/stargazers) ![GitHub forks](https://img.shields.io/github/forks/datawhalechina/all-in-rag) [![Python](https://img.shields.io/badge/Python-3.12.7-blue)](https://www.python.org/) [![Online Reading](https://img.shields.io/badge/Online%20Reading-Click%20Here-blue)](https://datawhalechina.github.io/)
+## Project Introduction [![Stars](../images/badge_stars_social.svg)](https://github.com/datawhalechina/all-in-rag/stargazers) ![GitHub forks](../images/badge_forks_plain.svg) [![Python](../images/badge_python_plain.svg)](https://www.python.org/) [![Online Reading](../images/badge_online_plain.svg)](https://datawhalechina.github.io/)
 
 [中文](/) | English
 
@@ -147,7 +147,7 @@ all-in-rag/
 - Thanks to the open source community for providing excellent tools and framework support
 - Special thanks to the following developers who contributed to the tutorial!
 
-[![Contributors](https://contrib.rocks/image?repo=datawhalechina/all-in-rag)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
+[![Contributors](../images/contributors.png)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
 
 *Made with [contrib.rocks](https://contrib.rocks).*
 
@@ -162,7 +162,7 @@ We welcome all forms of contributions, including but not limited to:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/all-in-rag&type=Date)](https://star-history.com/#datawhalechina/all-in-rag&Date)
+[![Star History Chart](../images/star_history.svg)](https://star-history.com/#datawhalechina/all-in-rag&Date)
 
 <div align="center">
   <p>If this project helps you, please give us a ⭐️</p>
@@ -174,7 +174,7 @@ We welcome all forms of contributions, including but not limited to:
 ## About Datawhale
 
 <div align='center'>
-    <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" alt="Datawhale" width="30%">
+    <img src="../images/datawhale_qrcode.jpeg" alt="Datawhale" width="30%">
     <p>Scan the QR code to follow Datawhale WeChat Official Account for more quality open source content</p>
 </div>
 
@@ -182,7 +182,7 @@ We welcome all forms of contributions, including but not limited to:
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="../images/badge_license.svg" /></a>
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 

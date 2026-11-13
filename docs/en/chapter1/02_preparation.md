@@ -11,7 +11,7 @@ To use the large language model services provided by Deepseek, you first need an
 1.  **Visit Deepseek Open Platform**
     Open your browser and visit [Deepseek Open Platform](https://platform.deepseek.com/).
 
-    ![Deepseek Platform Homepage](../images/1_2_1.webp)
+    ![Deepseek Platform Homepage](../../chapter1/images/1_2_1.webp)
 
 2.  **Login or Register Account**
     If you already have an account, please log in directly. If not, click the register button on the page and complete registration using your email or phone number.
@@ -19,14 +19,14 @@ To use the large language model services provided by Deepseek, you first need an
 3.  **Create New API Key**
     After successful login, find and click `API Keys` in the left navigation bar. On the API management page, click the `Create API key` button. Enter a name that doesn't duplicate other API keys and click create.
 
-    ![Create New Key Button](../images/1_2_2.webp)
+    ![Create New Key Button](../../chapter1/images/1_2_2.webp)
 
 4.  **Save API Key**
     The system will generate a new API key for you. Please **copy immediately** and save it in a secure place.
 
     > Note: For security reasons, this key will only be displayed in full once. You won't be able to see it again after closing the popup.
 
-    ![Copy and Save Key](../images/1_2_3.webp)
+    ![Copy and Save Key](../../chapter1/images/1_2_3.webp)
 
 ## 2. GitHub Codespaces Environment Configuration (Recommended)
 
@@ -43,30 +43,30 @@ GitHub Codespaces is a service provided by GitHub that allows developers to crea
 2.  **Create New Fork**
     In the upper right corner of the project page, click the `Fork` button to create a new fork. Wait a moment for successful creation.
 
-    ![Create New Fork 1](../images/1_2_4.webp)
+    ![Create New Fork 1](../../chapter1/images/1_2_4.webp)
 
-    ![Create New Fork 2](../images/1_2_5.webp)
+    ![Create New Fork 2](../../chapter1/images/1_2_5.webp)
 
 3.  **Create Codespaces**
     In the upper right corner of the project page, click the `Code` button, then select the `Codespaces` tab. Click the `New codespace` button and wait for the new Codespaces environment to be created successfully.
 
-    ![Create Codespaces](../images/1_2_6.webp)
+    ![Create Codespaces](../../chapter1/images/1_2_6.webp)
 
 4.  **Re-enter Codespaces**
     After closing the webpage, find the newly created repository and click the content in the red box to re-enter the codespace environment.
 
-    ![Re-enter Codespaces](../images/1_2_7.webp)
+    ![Re-enter Codespaces](../../chapter1/images/1_2_7.webp)
 
 5.  **Quota Settings**
     Find the codespace settings in GitHub's account settings. It's recommended to adjust the suspend time according to your situation (too long will waste quota, free accounts provide 120 hours of single-core quota).
 
-    ![Quota Settings](../images/1_2_8.webp)
+    ![Quota Settings](../../chapter1/images/1_2_8.webp)
 
 ### 2.2 Python Environment Configuration
 
 After entering the IDE, first select the terminal below.
 
-![Enter Terminal](../images/1_2_9.webp)
+![Enter Terminal](../../chapter1/images/1_2_9.webp)
 
 1.  **Update System Packages**
 
@@ -163,18 +163,18 @@ Cloud Studio is a browser-based integrated development environment (IDE) launche
 3.  **Create Application**
     Find and click `Create Application` in the navigation bar at the top of the page. Select `Import from Git Repository`, enter `https://github.com/datawhalechina/all-in-rag.git` in the project address bar and press Enter. It will automatically create a title and description for you.
 
-    ![Create Application](../images/1_2_10.webp)
+    ![Create Application](../../chapter1/images/1_2_10.webp)
 
 4.  **Re-enter**
     Later, find the previously created application on the [Application Management Page](https://cloudstudio.net/my-app), click on it and select "Write Code" in the upper right corner to re-enter.
 
-    ![Re-enter Application](../images/1_2_11.webp)
+    ![Re-enter Application](../../chapter1/images/1_2_11.webp)
 
 ### 3.2 Python Environment Configuration
 
 After entering the IDE, first select the terminal on the right.
 
-![Enter Terminal](../images/1_2_12.webp)
+![Enter Terminal](../../chapter1/images/1_2_12.webp)
 
 1.  **Update System Packages**
 
@@ -276,13 +276,13 @@ After entering the IDE, first select the terminal on the right.
 
 3.  In the "System Properties" dialog box, click the "Advanced" tab, then click the "Environment Variables" button below.
 
-    ![Advanced System Settings](../images/1_2_13.webp)
+    ![Advanced System Settings](../../chapter1/images/1_2_13.webp)
 
 4.  In the "Environment Variables" dialog box, click "New" (under the "User variables" section), then enter the following information:
     - Variable name: DEEPSEEK_API_KEY
     - Variable value: [Your Deepseek API Key]
 
-    ![Advanced System Settings](../images/1_2_14.webp)
+    ![Advanced System Settings](../../chapter1/images/1_2_14.webp)
 
 ### 4.2 Install Miniconda
 
@@ -290,7 +290,7 @@ After entering the IDE, first select the terminal on the right.
 
     It's recommended to visit [Tsinghua University Open Source Software Mirror](https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/) for faster download speeds. Choose the latest `Windows-x86_64.exe` version according to your system.
 
-    ![Select Miniconda Version](images/ch1/miniconda-select-version.png)
+    ![Select Miniconda Version](../../chapter1/images/1_2_15.webp)
 
     You can also download from the [Miniconda Official Website](https://docs.conda.io/en/latest/miniconda.html).
 
@@ -299,35 +299,34 @@ After entering the IDE, first select the terminal on the right.
     After downloading, double-click the `.exe` file to start installation. Follow the wizard prompts:
 
     *   **Welcome**: Click `Next`.
-        ![Welcome](../images/)
+        ![Welcome](../../chapter1/images/1_2_16.webp)
     *   **License Agreement**: Click `I Agree`.
-        ![License Agreement](../images/)
+        ![License Agreement](../../chapter1/images/1_2_17.webp)
     *   **Installation Type**: Select `Just Me`, click `Next`.
-        ![Installation Type](../images/)
+        ![Installation Type](../../chapter1/images/1_2_18.webp)
     *   **Choose Install Location**: It's recommended to keep the default path, or choose a path without Chinese characters and spaces. Click `Next`.
-        ![Install Location](../images/)
+        ![Install Location](../../chapter1/images/1_2_19.webp)
     *   **Advanced Installation Options**: **Do not check** "Add Miniconda3 to my PATH environment variable". We will manually configure environment variables later. Click `Install`.
-        ![Advanced Options](../images/)
+        ![Advanced Options](../../chapter1/images/1_2_20.webp)
     *   **Installation Complete**: After installation is complete, click `Next`, then uncheck "Learn more" and click `Finish` to complete installation.
-        ![Installation Complete](../images/)
 
 3.  **Manually Configure Environment Variables**
 
     To use the `conda` command in any terminal window, you need to manually configure environment variables.
 
     *   Search for "Edit the system environment variables" in the Windows search bar and open it.
-        ![Edit System Environment Variables](../images/)
+        ![Edit System Environment Variables](../../chapter1/images/1_2_21.webp)
     *   In the "System Properties" window, click "Environment Variables".
-        ![Environment Variables Button](../images/)
+        ![Environment Variables Button](../../chapter1/images/1_2_22.webp)
     *   In the "Environment Variables" window, find the `Path` variable under "System variables", select it and click "Edit".
-        ![Edit Path Variable](../images/)
+        ![Edit Path Variable](../../chapter1/images/1_2_23.webp)
     *   In the "Edit Environment Variable" window, create three new paths pointing to the corresponding folders under your Miniconda installation directory. If your installation path is `D:\Miniconda3`, you need to add:
         ```
         D:\Miniconda3
         D:\Miniconda3\Scripts
         D:\Miniconda3\Library\bin
         ```
-        ![Add Paths](../images/)
+        ![Add Paths](../../chapter1/images/1_2_24.webp)
     *   After completion, click "OK" all the way to save changes.
 
 ### 4.3 Configure Conda Mirror Sources
