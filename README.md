@@ -1,7 +1,7 @@
 # All-in-RAG | 大模型应用开发实战一：RAG技术全栈指南
 
 <div align='center'>
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/logo.svg" alt="All-in-RAG Logo" width="70%">
+  <img src="./docs/logo.svg" alt="All-in-RAG Logo" width="70%">
 </div>
 
 <div align="center">
@@ -10,23 +10,23 @@
 </div>
 
 <div align="center">
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_stars.svg" alt="GitHub stars"/>
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_forks.svg" alt="GitHub forks"/>
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_python.svg" alt="Python"/>
+  <img src="./docs/images/badge_stars.svg" alt="GitHub stars"/>
+  <img src="./docs/images/badge_forks.svg" alt="GitHub forks"/>
+  <img src="./docs/images/badge_python.svg" alt="Python"/>
   <a href="https://zread.ai/datawhalechina/all-in-rag">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_zread.svg" alt="zread"/>
+    <img src="./docs/images/badge_zread.svg" alt="zread"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://datawhalechina.github.io/all-in-rag/">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_read.svg" alt="在线阅读"/>
+    <img src="./docs/images/badge_read.svg" alt="在线阅读"/>
   </a>
   <a href="README_en.md">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_en.svg" alt="English Version"/>
+    <img src="./docs/images/badge_en.svg" alt="English Version"/>
   </a>
   <a href="https://github.com/datawhalechina">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_discuss.svg" alt="讨论交流"/>
+    <img src="./docs/images/badge_discuss.svg" alt="讨论交流"/>
   </a>
 </div>
 
@@ -184,11 +184,11 @@ all-in-rag/
 
 ### 第八章 项目一：
 
-![项目一](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/project01.png)
+![项目一](./project01.png)
 
 ### 第九章 项目一（Graph RAG优化）：
 
-![项目一（Graph RAG优化）](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/project01_graph.png)
+![项目一（Graph RAG优化）](./project01_graph.png)
 
 ### 第十章 项目二：
 
@@ -206,7 +206,7 @@ all-in-rag/
 - 感谢开源社区提供的优秀工具和框架支持
 - 特别感谢以下为教程做出贡献的开发者！
 
-[![Contributors](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/contributors.png)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
+[![Contributors](./docs/images/contributors.png)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
 
 *Made with [contrib.rocks](https://contrib.rocks).*
 
@@ -220,19 +220,19 @@ all-in-rag/
 
 ## Star History
 
-[![all-in-rag stats](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/all-in-rag_stats.png)](https://datawhalechina.github.io/members-visualization/repo-badge?repo=all-in-rag)
+[![all-in-rag stats](./docs/images/all-in-rag_stats.png)](https://datawhalechina.github.io/members-visualization/repo-badge?repo=all-in-rag)
 
 <div align="center">
   <p>如果这个项目对你有帮助，请给我们一个 ⭐️</p>
   <p>让更多人发现这个项目（护食？发来！）</p>
 </div>
 
-![star](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/emoji.png)
+![star](./emoji.png)
 
 ## 关于 Datawhale
 
 <div align='center'>
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/datawhale_qrcode.jpeg" alt="Datawhale" width="30%">
+    <img src="./docs/images/datawhale_qrcode.jpeg" alt="Datawhale" width="30%">
     <p>扫描二维码关注 Datawhale 公众号，获取更多优质开源内容</p>
 </div>
 
@@ -240,7 +240,7 @@ all-in-rag/
 
 ## 许可证
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_license.svg" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="./docs/images/badge_license.svg" /></a>
 
 本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
 

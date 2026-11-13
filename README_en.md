@@ -1,7 +1,7 @@
 # All-in-RAG | Large Model Application Development Practice: RAG Technology Full-Stack Guide
 
 <div align='center'>
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/logo.svg" alt="All-in-RAG Logo" width="70%">
+  <img src="./docs/logo.svg" alt="All-in-RAG Logo" width="70%">
 </div>
 
 <div align="center">
@@ -10,20 +10,20 @@
 </div>
 
 <div align="center">
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_stars.svg" alt="GitHub stars"/>
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_forks.svg" alt="GitHub forks"/>
-  <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_python.svg" alt="Python"/>
+  <img src="./docs/images/badge_stars.svg" alt="GitHub stars"/>
+  <img src="./docs/images/badge_forks.svg" alt="GitHub forks"/>
+  <img src="./docs/images/badge_python.svg" alt="Python"/>
 </div>
 
 <div align="center">
   <a href="https://datawhalechina.github.io/all-in-rag/#/en/">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_online_en.svg" alt="Online Reading"/>
+    <img src="./docs/images/badge_online_en.svg" alt="Online Reading"/>
   </a>
   <a href="README.md">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_cn.svg" alt="Chinese Version"/>
+    <img src="./docs/images/badge_cn.svg" alt="Chinese Version"/>
   </a>
   <a href="https://github.com/datawhalechina">
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_discuss.svg" alt="Discussion"/>
+    <img src="./docs/images/badge_discuss.svg" alt="Discussion"/>
   </a>
 </div>
 
@@ -165,11 +165,11 @@ all-in-rag/
 
 ### Chapter 8 Project I:
 
-![Project I](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/project01.png)
+![Project I](./project01.png)
 
 ### Chapter 9 Project I (Graph RAG Optimization):
 
-![Project I (Graph RAG Optimization)](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/project01_graph.png)
+![Project I (Graph RAG Optimization)](./project01_graph.png)
 
 ### Chapter 10 Project II:
 
@@ -206,12 +206,12 @@ We welcome all forms of contributions, including but not limited to:
   <p>Let more people discover this project (Food protection? Bring it on!)</p>
 </div>
 
-![star](https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/emoji.png)
+![star](./emoji.png)
 
 ## About Datawhale
 
 <div align='center'>
-    <img src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/datawhale_qrcode.jpeg" alt="Datawhale" width="30%">
+    <img src="./docs/images/datawhale_qrcode.jpeg" alt="Datawhale" width="30%">
     <p>Scan the QR code to follow Datawhale WeChat Official Account for more quality open source content</p>
 </div>
 
@@ -219,7 +219,7 @@ We welcome all forms of contributions, including but not limited to:
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://ghfast.top/https://raw.githubusercontent.com/lisll/all-in-rag/main/docs/images/badge_license.svg" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="./docs/images/badge_license.svg" /></a>
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
